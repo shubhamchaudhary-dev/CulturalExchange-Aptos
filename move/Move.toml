@@ -1,0 +1,16 @@
+[package]
+name = "cultural"
+version = "1.0.0"
+authors = []
+
+[addresses]
+todolist_addr='0xb1ed820472bba0a70dbbf0ba32fa32b253f5eff6698f06ce68a05ee279043a6'
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]

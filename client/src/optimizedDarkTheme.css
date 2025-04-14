@@ -1,0 +1,16 @@
+/* Dark Theme - Optimized */
+body, .ant-layout, .ant-menu {
+  background-color: #000000 !important;
+}
+
+*:not(.white-box, .white-box *) {
+  color: #ffffff !important;
+}
+
+.white-box, .white-box * {
+  color: #000000 !important;
+}
+
+.ant-menu-item:hover {
+  background-color: #333333 !important;
+}

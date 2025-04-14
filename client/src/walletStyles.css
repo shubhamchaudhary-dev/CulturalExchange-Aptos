@@ -1,0 +1,67 @@
+/* Wallet Connect Button Styles */
+.wallet-selector-wrapper .ant-btn,
+.wallet-selector-wrapper .wallet-adapter-button,
+.wallet-selector-wrapper .ant-btn > span,
+.wallet-selector-wrapper .wallet-adapter-button > span {
+  color: #111111 !important;
+}
+
+/* Wallet Selection Modal Styles */
+.wallet-adapter-modal {
+  --wallet-adapter-color: #111111 !important;
+  --wallet-adapter-text-color: #111111 !important;
+}
+
+.wallet-adapter-modal * {
+  color: #111111 !important;
+}
+
+.wallet-adapter-modal .ant-modal-content {
+  background-color: #ffffff !important;
+}
+
+.wallet-adapter-modal .wallet-adapter-button {
+  color: #111111 !important;
+  background-color: #ffffff !important;
+  border: 1px solid #000000 !important;
+}
+
+.wallet-adapter-modal .wallet-adapter-button:hover {
+  background-color: #fafafa !important;
+}
+
+.wallet-adapter-modal .ant-modal-title {
+  color: #000000 !important;
+}
+
+/* Cultural Exchange input styles */
+.cultural-exchange-input::placeholder {
+  color: #bfbfbf !important;
+  opacity: 1;
+  font-style: italic;
+}
+
+/* Custom input styles */
+.custom-placeholder {
+  color: #000000 !important;
+}
+
+.custom-placeholder::placeholder {
+  color: #bfbfbf !important;
+  font-style: italic;
+  opacity: 1;
+}
+
+/* Task list item styles */
+.ant-list-item {
+  color: #000000 !important;
+}
+
+.ant-list-item a {
+  color: #000000 !important;
+}
+
+.task-text {
+  color: #000000 !important;
+}
+

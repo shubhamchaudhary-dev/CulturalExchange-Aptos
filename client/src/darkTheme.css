@@ -1,0 +1,30 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+/* Ensure all text remains visible */
+*:not(.custom-message *, .cultural-tasks *) {
+  color: #ffffff !important;
+}
+
+.ant-layout {
+  background: #000000;
+}
+
+.ant-menu {
+  background: #000000;
+}
+
+.ant-menu-item a {
+  color: #ffffff !important;
+}
+
+.ant-menu-item:hover {
+  background-color: #333333 !important;
+}
+
+/* Additional visibility enhancements */
+a, p, h1, h2, h3, h4, h5, h6, span, div {
+  color: #ffffff !important;
+}
