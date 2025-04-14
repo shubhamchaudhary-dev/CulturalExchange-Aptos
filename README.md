@@ -1,13 +1,45 @@
-# ToDoList dApp on Aptos
+## **Cultural Exchange Learning DAO**  
 
-Welcome to the ToDoList dApp built on the Aptos blockchain using the Move language! This dApp allows users to create lists of tasks and sub-tasks, providing a decentralized way to manage your to-dos.
+### **1. Description**  
+Cultural Exchange Learning DAO is a **decentralized platform** built on the **Aptos blockchain** to facilitate **peer-to-peer cultural learning**. It enables users to **share knowledge, languages, and traditions** while earning incentives in a **trustless and decentralized manner**. The platform rewards contributors with **tokens** and issues **NFT-based certificates** for verified learning experiences.  
 
-## Features
+---
 
-- **Task Management**: Create, update, and delete tasks.
-- **Sub-Task Support**: Add sub-tasks under each main task.
-- **Decentralized**: Built on the Aptos blockchain, ensuring data integrity and security.
-- **Modern UI**: Frontend built with React and Ant Design for a sleek and responsive user experience.
+### **2. Vision of the Project**  
+Our vision is to **bridge cultural gaps** by empowering individuals worldwide to **learn, share, and experience diverse traditions** through a **secure, transparent, and decentralized** system. The DAO fosters **global collaboration, inclusivity, and equitable access** to cultural education.  
+
+---
+
+### **3. Future Scope**  
+✅ **NFT-Based Certifications** – Dynamic **NFTs as proof of learning**.  
+✅ **AI-Powered Learning Recommendations** – Personalized content suggestions.  
+✅ **Decentralized Content Storage** – Using **IPFS/Arweave** for censorship-resistant education.  
+✅ **Cross-Chain Expansion** – Integrating with **Ethereum, Solana, and Polygon**.  
+✅ **Metaverse Integration** – Virtual **cultural exchange events and learning spaces**.  
+
+---
+
+### **4. Contract Details**  
+📜 **Smart Contract Address**: `0xb1ed820472bba0a70dbbf0ba32fa32b253f5eff6698f06ce68a05ee279043a6`  
+
+---
+
+### **How to Contribute**  
+1️⃣ **Clone the repository**  
+```sh
+git clone https://github.com/your-repo/cultural-exchange-dao.git
+```  
+2️⃣ **Compile and Deploy the Contract**  
+```sh
+aptos move compile
+aptos move publish
+```  
+3️⃣ **Interact with the DAO** via **Aptos CLI or Frontend**  
+
+---
+
+**Built with ❤️ on Aptos Blockchain** 🚀
+![image](https://github.com/user-attachments/assets/9aee6023-6c19-412c-b7f8-9ac1b6c02956)
 
 ## Tech Stack
 
@@ -23,13 +55,6 @@ Follow these steps to set up the project locally.
 
 - [Node.js](https://nodejs.org/) (v14 or later)
 - [Aptos CLI](https://aptos.dev/cli-tools/aptos-cli-tool/install-aptos-cli)
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/ShivankK26/ToDoList-dApp-Aptos.git
-cd todo-list-dapp
-```
 
 ### Backend Setup
 
