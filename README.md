@@ -86,6 +86,10 @@ The application should now be running at `http://localhost:5173`.
 2. Connect your Aptos wallet.
 3. Create a new task list and add tasks and sub-tasks as needed.
 4. Manage your to-dos directly from the decentralized application.
+   
+![image](https://github.com/user-attachments/assets/ee9dd0da-431a-4be8-8f0c-85bf34de48a1)
+![image](https://github.com/user-attachments/assets/602fbd01-a81c-4cbc-b639-922e19e3afc7)
 
+![image](https://github.com/user-attachments/assets/9cafc845-fd55-49b9-949d-f6707a591ba1)
 
 
