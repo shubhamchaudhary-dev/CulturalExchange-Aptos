@@ -36,10 +36,6 @@ aptos move publish
 ```  
 3️⃣ **Interact with the DAO** via **Aptos CLI or Frontend**  
 
----
-
-**Built with ❤️ on Aptos Blockchain** 🚀
-![image](https://github.com/user-attachments/assets/9aee6023-6c19-412c-b7f8-9ac1b6c02956)
 
 ## Tech Stack
 
