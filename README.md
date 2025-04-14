@@ -58,7 +58,7 @@ Follow these steps to set up the project locally.
 2. Compile and deploy the Move smart contracts to the Aptos blockchain.
 
 ```bash
-cd contracts
+cd move
 aptos move compile
 aptos move publish
 ```
